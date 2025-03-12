@@ -278,6 +278,7 @@ if [ -n "$DISPLAY" ]; then
 fi
 
 echo -e "  ${c7}/.^         ^.\  ${c7}up${c3}    $(get_uptime)"
+disk="$(get_disk)"
 echo -e "                   ${c6}disk${c3}   ${c4}${disk}${c0}"
 echo -e "               "
 
