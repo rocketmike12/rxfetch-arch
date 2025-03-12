@@ -23,12 +23,12 @@ My modification of the [custom system fetching tool written in bash script](http
 You can install rxfetch with this one-line command:
 
 ```yaml
-curl -s https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/install.sh | sudo bash
+curl -s https://raw.githubusercontent.com/rocketmike12/rxfetch-arch/main/install.sh | sudo bash
 ```
 
 For Termux users:
 ```yaml
-curl -s https://raw.githubusercontent.com/Mangeshrex/rxfetch/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/rocketmike12/rxfetch-arch/main/install.sh | bash
 ```
 
 ## Run with curl
